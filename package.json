@@ -1,0 +1,10 @@
+{
+  "name": "VotingPlus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mavy77/VotingPlus.git",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.15.0"
+  }
+}
